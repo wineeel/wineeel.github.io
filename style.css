@@ -34,22 +34,27 @@ body {
 .column {
 	float: left;
 	padding: 10px;
-	height: 300px;
 	margin: 5px;
 }
 .left {
 	width: 75%;
-	height: 200px;
+	height: 350px;
 	background-color: white;
 	margin-left: 10px;
 	margin-top: 15px;
+	padding: 20px;
 }
 .right {
 	background-color: white;
 	width: 300px;
 	margin-top: 15px;
 	margin-left: 13px;
-	font-size:14px
+	font-size: 14px;
+	height: 350px;
+}
+.imgsub {
+	background-color: gray;
+	height: 200px;
 }
 	
 
